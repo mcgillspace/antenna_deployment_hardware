@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Antenna Deploy\Antenna_v1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=antenna_v1-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=antenna_v1-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=antenna_v1-rectholes-plated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : EMPCB.SMAFSTJ.B.HT.LibPkg
+
+Section : D:\Antenna Deploy\EMPCB.SMAFSTJ.B.HT\EMPCB.SMAFSTJ.B.HT.lia
+    Section : PCB Library - EMPCB.SMAFSTJ.B.HT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 134
+            Warning - 1 : Skipping Token isVisible On Line 149
+            Warning - 1 : Skipping Token EMPCB.SMAFSTJ.B.HT On Line 160
+            Warning - 1 : Skipping Token attachedSymbol On Line 252
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TAOGLAS_EMPCB.SMAFSTJ.B.HT][Primary] associated with PCAD Component [EMPCB.SMAFSTJ.B.HT] has been renamed to PCB FootPrint [*TAOGLAS_EMPCB.SMAFSTJ.B.HT_EMPCB.SMAFSTJ.B.HT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - EMPCB.SMAFSTJ.B.HT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 151
+        EndSection
+
+        Section : Generating SCH Library - EMPCB.SMAFSTJ.B.HT.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TAOGLAS_EMPCB.SMAFSTJ.B.HT][Primary] associated with PCAD Component [EMPCB.SMAFSTJ.B.HT] has been renamed to PCB FootPrint [*TAOGLAS_EMPCB.SMAFSTJ.B.HT_EMPCB.SMAFSTJ.B.HT(Primary)].
+        EndSection
+    EndSection
+EndSection
